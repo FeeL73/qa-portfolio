@@ -34,7 +34,8 @@
         JavaScript | NodeJS | Puppeteer
         
 ## <a name="test-design" />Проектирование тестов
-
+<details>
+<summary>Проект №1</summary>
 Зданаие 1 
 
 Тест-анализ: диаграмма связей
@@ -109,8 +110,12 @@ https://docs.google.com/spreadsheets/d/18092eiIfdvr_nGDBCNHG1hYMR94TtexubJqN4vzy
 
 https://docs.google.com/spreadsheets/d/18092eiIfdvr_nGDBCNHG1hYMR94TtexubJqN4vzytbE/edit#gid=1058266973
 
+</details>
+
 ## <a name="test-web" />ТЕСТИРОВНИЕ ВЕБ-ПРИЛОЖЕНИЙ
 
+<details>
+<summary>Проект №2</summary>
 
 Проект 2-го спринта: задание
 
@@ -265,8 +270,12 @@ Firefox при разрешении экрана 1920x1080.
 
 https://docs.google.com/spreadsheets/d/1npPsju-U-WiTTV18z8oS_nJW7WkSjoBVRJklZ0nQnQw/edit#gid=899462569
 
+</details>
 
 ## <a name="test-api" />ТЕСТИРОВАНИЕ МОБИЛЬНЫХ ПРИЛОЖЕНИЙ И API
+
+<details>
+<summary>Проект №3</summary>
 
 <details>
 <summary>Требования</summary>
@@ -457,6 +466,7 @@ https://docs.google.com/spreadsheets/d/1npPsju-U-WiTTV18z8oS_nJW7WkSjoBVRJklZ0nQ
 
 В процессе тестирования отмечай результаты выполнения теста: PASSED или FAILED. Если тест со статусом FAILED, заведи баг-репорт в YouTrack и впиши ID в соответствующую таблицу результатов.
 
+
 ### API
 
 Разработчики сделали новую функциональность в API Яндекс.Прилавка. Новую версию API передали тебе на тестирование. 
@@ -497,9 +507,13 @@ https://docs.google.com/spreadsheets/d/1npPsju-U-WiTTV18z8oS_nJW7WkSjoBVRJklZ0nQ
 <summary>Решение</summary>
 https://docs.google.com/spreadsheets/d/132cixwfebR8Qr1eTbhfD4S2OFr9jp6SNqNu4vKOA7Jk/edit#gid=857523888
 </details>
-
+</details>
 
 ## <a name="test-bd" /> Основы баз данных
+
+<details>
+<summary>Проект №4</summary>
+
 
 <details>
 <summary>Задание 4 проекта</summary>
@@ -678,10 +692,14 @@ description — краткое описание погодных условий.
 <summary>Решение</summary>
 https://docs.google.com/document/d/1XpbE9BDz_Pzr-DvjXGEvS9GZBf6Ug46h76BURjtTZew/edit
 </details>
-
+</details>
 
 ## <a name="test-avto" />Основы автоматизации тестирования
 
+<details>
+<summary>Проект №5</summary>
+
+        
 ### Задание 1
 
 Автоматизируй тест-кейс для Яндекс.Маршрутов. Найди нужные селекторы на стенде: <https://qa-routes.praktikum-services.ru/>
@@ -844,6 +862,7 @@ async function testYaRu() {
 
 testYaRu();
 ```
+</details>
 
 
 ## [Вернуться к темам проектов Андрея](#head)<br>
