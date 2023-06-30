@@ -1,9 +1,8 @@
-# qa-portfolio
+# <a name="head" />qa-portfolio
 
 В портфолио собраны проекты, выполненные во время обучения по специальности Инженер по тестированию в Яндекс.Практикуме.
 
-## [Проектирование тестов](#test-design)<br>
-### Проектирование тестов
+### [Проектирование тестов](#test-design)<br>
 
         Тест-анализ | Ассоциативные карты | Блок-схемы
 
@@ -11,25 +10,26 @@
         
         Тестовая документация | Чек-листы | Тест-кейсы
 
-### Тестирование веб-приложений
+### [Тестирование веб-приложений](#test-web)<br>
 
         Пользовательский интерфейс | Формы | DevTools | Charles
         
         Таблицы принятия решений | Парное тестирование | Баг-репорты
 
-### Тестирование мобильных приложений
+### [Тестирование мобильных приложений](#test-api)<br>
 
         Матрица устройств | Эмуляторы | Android Studio
 
-### Тестирование API
+### [Тестирование API](#test-api)<br>
 
         REST API | JSON | Postman
 
-### Тестирование баз данных  
+### [Тестирование баз данных  ](#test-bd)<br>
 
         Консоль | SQL | PostgreSQL
 
-### Основы автоматизации тестирования
+        
+### [Основы автоматизации тестирования ](#test-avto)<br>
 
         JavaScript | NodeJS | Puppeteer
         
@@ -109,7 +109,7 @@ https://docs.google.com/spreadsheets/d/18092eiIfdvr_nGDBCNHG1hYMR94TtexubJqN4vzy
 
 https://docs.google.com/spreadsheets/d/18092eiIfdvr_nGDBCNHG1hYMR94TtexubJqN4vzytbE/edit#gid=1058266973
 
-## <a name="test-design1" />ТЕСТИРОВНИЕ ВЕБ-ПРИЛОЖЕНИЙ
+## <a name="test-web" />ТЕСТИРОВНИЕ ВЕБ-ПРИЛОЖЕНИЙ
 
 
 Проект 2-го спринта: задание
@@ -266,7 +266,7 @@ Firefox при разрешении экрана 1920x1080.
 https://docs.google.com/spreadsheets/d/1npPsju-U-WiTTV18z8oS_nJW7WkSjoBVRJklZ0nQnQw/edit#gid=899462569
 
 
-## ТЕСТИРОВАНИЕ МОБИЛЬНЫХ ПРИЛОЖЕНИЙ И API
+## <a name="test-api" />ТЕСТИРОВАНИЕ МОБИЛЬНЫХ ПРИЛОЖЕНИЙ И API
 
 <details>
 <summary>Требования</summary>
@@ -498,7 +498,8 @@ https://docs.google.com/spreadsheets/d/1npPsju-U-WiTTV18z8oS_nJW7WkSjoBVRJklZ0nQ
 https://docs.google.com/spreadsheets/d/132cixwfebR8Qr1eTbhfD4S2OFr9jp6SNqNu4vKOA7Jk/edit#gid=857523888
 </details>
 
-# Основы баз данных
+
+## <a name="test-bd" /> Основы баз данных
 
 <details>
 <summary>Задание 4 проекта</summary>
@@ -679,7 +680,7 @@ https://docs.google.com/document/d/1XpbE9BDz_Pzr-DvjXGEvS9GZBf6Ug46h76BURjtTZew/
 </details>
 
 
-## <a name="test-automation" />Основы автоматизации тестирования
+## <a name="test-avto" />Основы автоматизации тестирования
 
 ### Задание 1
 
@@ -844,4 +845,5 @@ async function testYaRu() {
 testYaRu();
 ```
 
-[Наверх](#up)
+
+## [Вернуться к темам проектов Андрея](#head)<br>
